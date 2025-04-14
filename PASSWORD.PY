@@ -9,9 +9,9 @@ import os
 import tkinter as tk
 
 # ---------------------- Email Info ---------------------- #
-SENDER_EMAIL = "mailpassrezaabdi@gmail.com"
-SENDER_PASSWORD = "uvho jdzv eofg xips"
-RECEIVER_EMAIL = "savedpaassrezaabdi@gmail.com"
+SENDER_EMAIL = "sender email"
+SENDER_PASSWORD = "pass for app"
+RECEIVER_EMAIL = "reciver email"
 
 # ---------------------- Save Path ---------------------- #
 SAVE_FILE_PATH = "D:/Lessons/پایانامه/LastChanges/OneDrive/passwords.txt"
